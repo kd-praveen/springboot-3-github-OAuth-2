@@ -1,8 +1,11 @@
+server:
+ port: 8080
+
 spring:
   security:
     oauth2:
       client:
         registration:
           github:
-            clientId: github-client-id
-            clientSecret: github-client-secret
+            clientId: b6f21f1d1f8217ef658e
+            clientSecret: 0c929150cb869882715082bf0cd6417b4c1004d8
